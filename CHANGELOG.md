@@ -24,7 +24,7 @@ First round of icons
 <li>icon-user-settings</li>
 </ul>
 
-<h3Directory: override-awesome-icons</h3>
+<h3>Directory: override-awesome-icons</h3>
 <ul>
 <li>icon-bullhorn</li>
 <li>icon-caret-down</li>
