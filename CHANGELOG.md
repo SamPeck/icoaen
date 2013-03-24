@@ -5,7 +5,7 @@ By: Sam Peck
 
 First round of icons
 
-<h3>Directory: new-icons-to-add<h3>
+<h3>Directory: new-icons-to-add</h3>
 <ul>
 <li>icon-add-link</li>
 <li>icon-close-sidebar</li>
