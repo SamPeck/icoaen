@@ -5,7 +5,8 @@ By: Sam Peck
 
 First round of icons
 
-<ul>Directory: new-icons-to-add
+<h3>Directory: new-icons-to-add<h3>
+<ul>
 <li>icon-add-link</li>
 <li>icon-close-sidebar</li>
 <li>icon-collab-doc</li>
@@ -23,7 +24,8 @@ First round of icons
 <li>icon-user-settings</li>
 </ul>
 
-<ul>Directory: override-awesome-icons
+<h3Directory: override-awesome-icons</h3>
+<ul>
 <li>icon-bullhorn</li>
 <li>icon-caret-down</li>
 <li>icon-caret-left</li>
