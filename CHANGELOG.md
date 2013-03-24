@@ -2,8 +2,7 @@
 1.0.1 (24 March 2013)
 </h2>
 
-First round of icons
-By: Sam Peck
+First round of icons – by: Sam Peck
 
 <h3>Directory: new-icons-to-add</h3>
 <ul>
