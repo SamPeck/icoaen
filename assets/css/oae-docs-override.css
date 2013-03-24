@@ -1,0 +1,80 @@
+
+body {
+  font-family: 'Open Sans', sans-serif; arial, helvetica, sans-serif;
+}
+
+.jumbotron {
+	  background: url(../img/landing.png) no-repeat center center #0072a1;
+}
+
+.jumbotron:after {
+  background: none;
+}
+
+.jumbotron h1 {
+  font-weight: 300;
+}
+
+.masthead h1 {
+  font-size: 160px;
+  line-height: 1;
+  letter-spacing: -2px;
+
+}
+
+.masthead p {
+	font-size: 24px;
+	font-weight: 400;
+}
+
+.masthead span {
+	font-weight: 300;
+}
+
+.masthead-links li {
+	color: #fff;
+}
+
+.masthead .btn {
+	line-height: 26px;
+}
+
+.masthead .btn-github {
+	color: #333;
+}
+
+.masthead .btn-github:hover {
+	color: #999;
+}
+
+.navbar-inverse .navbar-inner {
+    background-color: #333;
+    background-image: linear-gradient(to bottom, #333, #555);
+}
+
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+    background-color: #333;
+    color: #FFFFFF;
+}
+
+body > .navbar .brand {
+	font-weight: 300;
+}
+
+footer .container img {
+	width: 12.5%;
+	margin-bottom: 20px;
+}
+
+.the-icons li {
+	background-color: #efefef;
+	border-right: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	margin-bottom: 0;
+	padding: 3px 0 3px 8px;
+}
+
+.the-icons strong {
+	display: block;
+	font-style: italic;
+}
